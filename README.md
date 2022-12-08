@@ -1,4 +1,4 @@
-# Detect keywords in audio
+# CS235 Data Mining Techniques Project
 
 - [Folder structure](#folder-structure)
 - [Setup environment](#setup-environment)
